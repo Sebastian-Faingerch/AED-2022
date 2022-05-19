@@ -1,2 +1,8 @@
 # AED-2022
-Materia Algoritmos y Estructura de Datos 2022 - UTN
+# AED
+• Algoritmos y Estructuras de Datos
+• K1051
+• 2022
+• 202.690-9
+• Faingerch
+• Sebastian
